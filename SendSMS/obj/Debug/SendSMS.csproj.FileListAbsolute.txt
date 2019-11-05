@@ -1,0 +1,11 @@
+G:\vs2017\shanslab\SendSMS\SendSMS\obj\Debug\SendSMS.csproj.CoreCompileInputs.cache
+G:\vs2017\shanslab\SendSMS\SendSMS\bin\Debug\SendSMS.dll
+G:\vs2017\shanslab\SendSMS\SendSMS\bin\Debug\SendSMS.pdb
+G:\vs2017\shanslab\SendSMS\SendSMS\obj\Debug\SendSMS.dll
+G:\vs2017\shanslab\SendSMS\SendSMS\obj\Debug\SendSMS.pdb
+G:\vs2017\shanslab\SendSMS\SendSMS\bin\Debug\Newtonsoft.Json.dll
+G:\vs2017\shanslab\SendSMS\SendSMS\bin\Debug\Newtonsoft.Json.xml
+G:\vs2017\shanslab\SendSMS\SendSMS\obj\Debug\SendSMS.csproj.CopyComplete
+G:\vs2017\shanslab\SendSMS\SendSMS\obj\Debug\SendSMS.Properties.Resources.resources
+G:\vs2017\shanslab\SendSMS\SendSMS\obj\Debug\SendSMS.csproj.GenerateResource.cache
+G:\vs2017\shanslab\SendSMS\SendSMS\obj\Debug\SendSMS.csprojAssemblyReference.cache

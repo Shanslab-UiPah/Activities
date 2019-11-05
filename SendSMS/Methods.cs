@@ -10,8 +10,10 @@ using Newtonsoft.Json.Linq;
 
 namespace SendSMS
 {
+
     class Methods
     {
+        static String test = "false";
         public static string sendSMS(string Message, String Recepient, string APIKey)
         {
             String message = System.Web.HttpUtility.UrlEncode(Message);
@@ -23,7 +25,7 @@ namespace SendSMS
                 {"numbers" , Recepient},
                 {"message" , message},
                 {"sender" , "TXTLCL"},
-                {"test","true" }
+                {"test",test }
                 });
                 string result = System.Text.Encoding.UTF8.GetString(response);
                 return result;
@@ -48,7 +50,7 @@ namespace SendSMS
                 {"apikey" , APIKey},
                 {"data" , "{\"messages\":["+message+"]}" },
                 {"sender" , "TXTLCL"},
-                {"test","true" }
+                {"test",test }
                 });
                     result = System.Text.Encoding.UTF8.GetString(response);
 
@@ -80,7 +82,7 @@ namespace SendSMS
                 {"apikey" , APIKey},
                 {"data" , "{\"messages\":["+message+"]}" },
                 {"sender" , "TXTLCL"},
-                {"test","true" }
+                {"test",test }
                 });
                     result = System.Text.Encoding.UTF8.GetString(response);
 
